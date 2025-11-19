@@ -1,0 +1,205 @@
+[17-Nov-2025 15:15:59 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:15:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:15:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:15:59 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 9
+[17-Nov-2025 15:15:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 9
+[17-Nov-2025 15:15:59 UTC] PHP Warning:  file_get_contents(https://...@J4CKFFX&amp;user_id=8359358417): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 18
+[17-Nov-2025 15:17:44 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:17:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:17:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:17:44 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 9
+[17-Nov-2025 15:17:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 9
+[17-Nov-2025 15:17:44 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:17:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:17:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:17:44 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 9
+[17-Nov-2025 15:17:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 9
+[17-Nov-2025 15:19:08 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:19:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:19:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:19:08 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 9
+[17-Nov-2025 15:19:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 9
+[17-Nov-2025 15:19:08 UTC] PHP Warning:  file_get_contents(https://...@J4CKFFX&amp;user_id=5322998438): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 18
+[17-Nov-2025 15:19:12 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:19:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:19:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:19:12 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 9
+[17-Nov-2025 15:19:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 9
+[17-Nov-2025 15:19:12 UTC] PHP Warning:  file_get_contents(https://...@J4CKFFX&amp;user_id=5322998438): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 18
+[17-Nov-2025 15:29:36 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 15:29:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 15:29:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 15:29:36 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[17-Nov-2025 15:29:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[17-Nov-2025 15:29:36 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:29:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:29:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:29:37 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[17-Nov-2025 15:29:40 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 15:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 15:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 15:29:40 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[17-Nov-2025 15:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[17-Nov-2025 15:29:40 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:29:40 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[17-Nov-2025 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[17-Nov-2025 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[17-Nov-2025 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 15:58:56 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[17-Nov-2025 16:08:21 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 16:08:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 16:08:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 16:08:21 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[17-Nov-2025 16:08:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[17-Nov-2025 16:08:21 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 16:08:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 16:08:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 16:08:21 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[17-Nov-2025 16:28:42 UTC] PHP Warning:  Undefined array key "text" in /home/battlear/public_html/bot/index.php on line 7
+[17-Nov-2025 18:18:16 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 18:18:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 18:18:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[17-Nov-2025 18:18:16 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[17-Nov-2025 18:18:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[17-Nov-2025 18:18:16 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 18:18:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 18:18:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[17-Nov-2025 18:18:16 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[18-Nov-2025 09:37:38 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 09:37:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 09:37:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 09:37:38 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 09:37:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 09:37:38 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 09:37:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 09:37:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 09:37:38 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[18-Nov-2025 09:37:45 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 09:37:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 09:37:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 09:37:45 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 09:37:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 09:37:45 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 09:37:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 09:37:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 09:37:45 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[18-Nov-2025 13:02:57 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 13:02:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 13:02:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 13:02:57 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 13:02:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 13:02:57 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 13:02:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 13:02:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 13:02:57 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[18-Nov-2025 13:03:54 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 13:03:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 13:03:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 13:03:54 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 13:03:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 13:03:54 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 13:03:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 13:03:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 13:03:54 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[18-Nov-2025 13:08:02 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 13:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 13:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 13:08:02 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 13:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 13:08:02 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 13:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 13:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 13:08:02 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[18-Nov-2025 13:19:25 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 13:19:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 13:19:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 13:19:25 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 13:19:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 13:19:25 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 13:19:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 13:19:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 13:19:25 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[18-Nov-2025 14:05:45 UTC] PHP Warning:  Undefined array key "text" in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 14:06:32 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 14:06:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 14:06:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 14:06:32 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 14:06:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 14:06:32 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 14:06:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 14:06:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 14:06:32 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[18-Nov-2025 14:19:10 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 14:19:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 14:19:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[18-Nov-2025 14:19:10 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 14:19:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[18-Nov-2025 14:19:10 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 14:19:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 14:19:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[18-Nov-2025 14:19:10 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[18-Nov-2025 20:13:09 UTC] PHP Warning:  Undefined array key "text" in /home/battlear/public_html/bot/index.php on line 7
+[19-Nov-2025 04:12:57 UTC] PHP Warning:  Undefined array key "text" in /home/battlear/public_html/bot/index.php on line 7
+[19-Nov-2025 06:20:23 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[19-Nov-2025 06:20:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[19-Nov-2025 06:20:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[19-Nov-2025 06:20:23 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[19-Nov-2025 06:20:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[19-Nov-2025 06:20:23 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[19-Nov-2025 06:20:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[19-Nov-2025 06:20:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[19-Nov-2025 06:20:23 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[19-Nov-2025 06:21:07 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[19-Nov-2025 06:21:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[19-Nov-2025 06:21:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[19-Nov-2025 06:21:07 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[19-Nov-2025 06:21:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[19-Nov-2025 06:21:07 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[19-Nov-2025 06:21:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[19-Nov-2025 06:21:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[19-Nov-2025 06:21:08 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[19-Nov-2025 08:29:01 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[19-Nov-2025 08:29:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[19-Nov-2025 08:29:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[19-Nov-2025 08:29:01 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[19-Nov-2025 08:29:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[19-Nov-2025 08:29:01 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[19-Nov-2025 08:29:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[19-Nov-2025 08:29:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[19-Nov-2025 08:29:01 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
+[19-Nov-2025 09:38:38 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 6
+[19-Nov-2025 09:38:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[19-Nov-2025 09:38:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 6
+[19-Nov-2025 09:38:38 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 7
+[19-Nov-2025 09:38:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 7
+[19-Nov-2025 09:38:38 UTC] PHP Warning:  Undefined array key "message" in /home/battlear/public_html/bot/index.php on line 8
+[19-Nov-2025 09:38:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[19-Nov-2025 09:38:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/battlear/public_html/bot/index.php on line 8
+[19-Nov-2025 09:38:38 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8500039166:AAEw2XMF_Sv1fg-61Ap_aEysm_kJVNrn_I4/sendMessage?text=%F0%9F%92%AC+Send+%2Fstart+to+begin%3A&amp;parse_mode=HTML): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/battlear/public_html/bot/functions.php on line 11
